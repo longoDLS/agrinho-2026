@@ -14,9 +14,9 @@ a{
     text-decoration: none;
 }
 img{
-    width: 300px;
-    height: 150px;
-    border-radius: 50%;
+    width: 150px;
+    height: 75px;
+    border-radius: 30%;
 }
 .center {
    text-align: center;
